@@ -1,2 +1,4 @@
 # CMIF
 CMIF - Cool Malware I Found
+REMEMBER! THESE ARE MALWARE, DOWNLOAD AT YOUR OWN RISK. Use a VM ofc. :wink:
+Bye!
